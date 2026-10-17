@@ -85,4 +85,4 @@ Output: 120
 
 ## Author
 
-Rishi Singh
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
